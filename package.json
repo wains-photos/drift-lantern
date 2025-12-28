@@ -1,0 +1,15 @@
+{
+  "__file": "package.json",
+  "name": "drift-lantern",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@coinbase/wallet-sdk": "latest",
+    "viem": "latest",
+
+    "base-node": "github:base/node",
+    "base-web": "github:base/web"
+  }
+}
